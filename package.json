@@ -1,0 +1,16 @@
+{
+  "name": "sound-neighbors",
+  "version": "1.0.0",
+  "description": "Teen musicians bringing live music to senior centers, hospitals, and community groups.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/",
+    "test:rules": "firebase emulators:exec --only firestore --project demo-sound-neighbors \"node --test tests/rules.test.mjs\""
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^5.0.2",
+    "firebase": "^12.19.0"
+  }
+}

@@ -1,0 +1,126 @@
+rules_version = '2';
+
+// Starter security rules for Sound Neighbors.
+// Read every rule and make sure you can explain it before deploying:
+//   firebase deploy --only firestore:rules
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() { return request.auth != null; }
+    function me() { return request.auth.uid; }
+    function profile() {
+      return get(/databases/$(database)/documents/users/$(me())).data;
+    }
+    // The sign-in token says whether the person clicked the link in their verification email.
+    function emailOk() { return request.auth.token.get('email_verified', false) == true; }
+
+    // Any organizer with a confirmed email can post and manage their own gigs.
+    function isOrganizer() { return signedIn() && emailOk() && profile().role == 'organizer'; }
+    
+    // "Verified" is the admin's stamp (verified: true in the console). It unlocks the sensitive
+    // parts: teens' sample clips, teens' records, and confirming service hours.
+    function isVerifiedOrganizer() {
+      return signedIn() && profile().role == 'organizer' && profile().verified == true;
+    }
+    function ownsGig(gigId) {
+      return get(/databases/$(database)/documents/gigs/$(gigId)).data.orgId == me();
+    }
+
+    function gigData(gigId) {
+      return get(/databases/$(database)/documents/gigs/$(gigId)).data;
+    }
+    function myApp(gigId) {
+      return get(/databases/$(database)/documents/applications/$(gigId + '_' + me())).data;
+    }
+
+    match /users/{uid} {
+      allow read: if signedIn();
+      // New users can't make themselves verified or parent-approved
+      allow create: if signedIn() && me() == uid
+        && request.resource.data.get('verified', false) == false
+        && request.resource.data.parentApproved == false
+        && request.resource.data.get('adult', false) is bool;   // self-declared at sign-up; the app saves only yes/no
+      // Users edit their own profile, but not these protected fields
+      allow update: if signedIn() && me() == uid
+        && !request.resource.data.diff(resource.data).affectedKeys()
+             .hasAny(['role', 'verified', 'parentApproved', 'adult']);
+    }
+
+    // Sample clips (F12): audio stored as a data URL. Only the teen and verified organizers can read it.
+    match /users/{uid}/clips/{clipId} {
+      allow read: if signedIn() && (me() == uid || isVerifiedOrganizer());
+      allow create, update: if signedIn() && emailOk() && me() == uid
+        && request.resource.data.mime.matches('audio/.*')
+        && request.resource.data.data is string
+        && request.resource.data.data.size() < 950000;
+      allow delete: if signedIn() && me() == uid;
+    }
+
+    match /gigs/{gigId} {
+      allow read: if signedIn();
+      allow create: if isOrganizer() && request.resource.data.orgId == me();
+      allow update, delete: if isOrganizer() && resource.data.orgId == me();
+      // Backup flow (F9): a confirmed performer can cancel, and the backup who holds the offer
+      // can accept or pass. They may touch only these fields.
+      allow update: if signedIn()
+        && request.resource.data.diff(resource.data).affectedKeys()
+             .hasOnly(['cancelledBy', 'cancelledMinutes', 'backupTaken', 'offeredTo', 'status'])
+        && request.resource.data.status in ['open', 'filled']
+        && (resource.data.get('offeredTo', null) == me() || myApp(gigId).role == 'perform');
+    }
+
+    match /applications/{appId} {
+      // Verified organizers can also read applications, to show a teen's cancellation record (F6).
+      // get: IDs are "<gigId>_<teenId>", so a teen may look up their own application even before it
+      // exists (the app does this to decide between "Request" and "Requested").
+      allow get: if signedIn() && (appId.matches('.*_' + me())
+        || (resource != null && (ownsGig(resource.data.gigId) || isVerifiedOrganizer())));
+      allow list: if signedIn()
+        && (resource.data.teenId == me() || ownsGig(resource.data.gigId) || isVerifiedOrganizer());
+      // Only parent-approved teens, or adults, can apply (F2), and only as themselves
+      allow create: if signedIn() && emailOk() && request.resource.data.teenId == me()
+        && request.resource.data.role == 'pending'
+        && (profile().get('parentApproved', false) == true || profile().get('adult', false) == true);
+      // Organizer sets the role; a teen may only change their own 'response'
+      allow update: if signedIn() && (ownsGig(resource.data.gigId)
+        || (resource.data.teenId == me()
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['response']))
+        // A backup accepting the spot they were offered takes the cancelled act's minutes
+        || (resource.data.teenId == me() && resource.data.role == 'backup'
+            && request.resource.data.diff(resource.data).affectedKeys()
+                 .hasOnly(['role', 'minutes', 'response', 'wasBackup'])
+            && gigData(resource.data.gigId).get('offeredTo', null) == me()
+            && request.resource.data.role == 'perform'
+            && request.resource.data.minutes == gigData(resource.data.gigId).cancelledMinutes));
+      allow delete: if signedIn() && resource.data.teenId == me();
+    }
+
+    // Reports (spam, safety)
+    match /reports/{reportId} {
+      allow create: if signedIn() && emailOk()
+        && request.resource.data.reporterId == me()
+        && request.resource.data.reason is string
+        && request.resource.data.reason.size() <= 500;
+      allow read, update, delete: if false;
+    }
+
+    match /sets/{gigId} {   // document ID = the gig's ID
+      allow read: if signedIn();
+      // A teen can share a set but can't approve it
+      allow write: if signedIn()
+        && (ownsGig(gigId)
+            || (request.resource.data.builtBy == me() && request.resource.data.approved == false));
+    }
+
+    match /hourLogs/{logId} {
+      allow read: if signedIn()
+        && (resource.data.teenId == me() || resource.data.orgId == me() || isVerifiedOrganizer());
+      allow create: if isVerifiedOrganizer()
+        && request.resource.data.orgId == me()
+        && ownsGig(request.resource.data.gigId)
+        && request.resource.data.hours > 0
+        && request.resource.data.hours <= 4;
+      allow update, delete: if false;
+    }
+  }
+}

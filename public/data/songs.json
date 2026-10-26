@@ -1,0 +1,2126 @@
+[
+  {
+    "id": "shine-on-harvest-moon",
+    "title": "Shine On, Harvest Moon",
+    "year": 1908,
+    "seconds": 185,
+    "energy": 2,
+    "moods": [
+      "nostalgic",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "let-me-call-you-sweetheart",
+    "title": "Let Me Call You Sweetheart",
+    "year": 1910,
+    "seconds": 170,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "classics"
+    ]
+  },
+  {
+    "id": "down-by-the-old-mill-stream",
+    "title": "Down by the Old Mill Stream",
+    "year": 1910,
+    "seconds": 165,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "take-me-out-to-the-ball-game",
+    "title": "Take Me Out to the Ball Game",
+    "year": 1908,
+    "seconds": 140,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration",
+      "patriotic"
+    ]
+  },
+  {
+    "id": "when-irish-eyes-are-smiling",
+    "title": "When Irish Eyes Are Smiling",
+    "year": 1912,
+    "seconds": 195,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "festive"
+    ],
+    "needs": [],
+    "events": [
+      "holiday",
+      "classics"
+    ]
+  },
+  {
+    "id": "my-wild-irish-rose",
+    "title": "My Wild Irish Rose",
+    "year": 1899,
+    "seconds": 160,
+    "energy": 2,
+    "moods": [
+      "nostalgic",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "holiday",
+      "classics"
+    ]
+  },
+  {
+    "id": "daisy-bell",
+    "title": "Daisy Bell",
+    "year": 1892,
+    "seconds": 155,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "wedding"
+    ]
+  },
+  {
+    "id": "in-the-good-old-summertime",
+    "title": "In the Good Old Summertime",
+    "year": 1902,
+    "seconds": 150,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration"
+    ]
+  },
+  {
+    "id": "by-the-light-of-the-silvery-moon",
+    "title": "By the Light of the Silvery Moon",
+    "year": 1909,
+    "seconds": 150,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "wedding"
+    ]
+  },
+  {
+    "id": "meet-me-in-st-louis",
+    "title": "Meet Me in St. Louis, Louis",
+    "year": 1904,
+    "seconds": 160,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration"
+    ]
+  },
+  {
+    "id": "youre-a-grand-old-flag",
+    "title": "You're a Grand Old Flag",
+    "year": 1906,
+    "seconds": 130,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "festive"
+    ],
+    "needs": [],
+    "events": [
+      "patriotic",
+      "kids"
+    ]
+  },
+  {
+    "id": "pack-up-your-troubles",
+    "title": "Pack Up Your Troubles in Your Old Kit-Bag",
+    "year": 1915,
+    "seconds": 140,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "its-a-long-way-to-tipperary",
+    "title": "It's a Long Way to Tipperary",
+    "year": 1912,
+    "seconds": 150,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "aint-we-got-fun",
+    "title": "Ain't We Got Fun",
+    "year": 1921,
+    "seconds": 150,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "festive"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration"
+    ]
+  },
+  {
+    "id": "five-foot-two",
+    "title": "Five Foot Two, Eyes of Blue",
+    "year": 1925,
+    "seconds": 145,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "bye-bye-blackbird",
+    "title": "Bye Bye Blackbird",
+    "year": 1926,
+    "seconds": 175,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "aint-she-sweet",
+    "title": "Ain't She Sweet",
+    "year": 1927,
+    "seconds": 140,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "wedding"
+    ]
+  },
+  {
+    "id": "home-on-the-range",
+    "title": "Home on the Range",
+    "year": 1872,
+    "seconds": 200,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "patriotic"
+    ]
+  },
+  {
+    "id": "beautiful-dreamer",
+    "title": "Beautiful Dreamer",
+    "year": 1864,
+    "seconds": 190,
+    "energy": 1,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "classics"
+    ]
+  },
+  {
+    "id": "danny-boy",
+    "title": "Danny Boy",
+    "year": 1913,
+    "seconds": 210,
+    "energy": 1,
+    "moods": [
+      "sad",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "holiday",
+      "classics"
+    ]
+  },
+  {
+    "id": "after-the-ball",
+    "title": "After the Ball",
+    "year": 1892,
+    "seconds": 200,
+    "energy": 2,
+    "moods": [
+      "sad",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "jingle-bells",
+    "title": "Jingle Bells",
+    "year": 1857,
+    "seconds": 130,
+    "energy": 5,
+    "moods": [
+      "festive",
+      "seasonal",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "kids"
+    ]
+  },
+  {
+    "id": "silent-night",
+    "title": "Silent Night",
+    "year": 1818,
+    "seconds": 180,
+    "energy": 1,
+    "moods": [
+      "seasonal",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "comfort"
+    ]
+  },
+  {
+    "id": "deck-the-halls",
+    "title": "Deck the Halls",
+    "year": 1862,
+    "seconds": 120,
+    "energy": 4,
+    "moods": [
+      "festive",
+      "seasonal",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "kids"
+    ]
+  },
+  {
+    "id": "auld-lang-syne",
+    "title": "Auld Lang Syne",
+    "year": 1788,
+    "seconds": 150,
+    "energy": 2,
+    "moods": [
+      "nostalgic",
+      "festive",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "celebration",
+      "classics"
+    ]
+  },
+  {
+    "id": "fur-elise",
+    "title": "Für Elise (instrumental)",
+    "year": 1810,
+    "seconds": 180,
+    "energy": 2,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [
+      "piano"
+    ],
+    "events": [
+      "comfort"
+    ]
+  },
+  {
+    "id": "clair-de-lune",
+    "title": "Clair de Lune (instrumental)",
+    "year": 1905,
+    "seconds": 300,
+    "energy": 1,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [
+      "piano"
+    ],
+    "events": [
+      "comfort"
+    ]
+  },
+  {
+    "id": "maple-leaf-rag",
+    "title": "Maple Leaf Rag (instrumental)",
+    "year": 1899,
+    "seconds": 190,
+    "energy": 5,
+    "moods": [
+      "upbeat"
+    ],
+    "needs": [
+      "piano"
+    ],
+    "events": [
+      "classics",
+      "celebration"
+    ]
+  },
+  {
+    "id": "canon-in-d",
+    "title": "Canon in D (instrumental)",
+    "year": 1700,
+    "seconds": 270,
+    "energy": 2,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "comfort"
+    ]
+  },
+  {
+    "id": "happy-birthday-to-you",
+    "title": "Happy Birthday to You",
+    "artist": "Traditional",
+    "year": 1893,
+    "seconds": 60,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "festive"
+    ],
+    "needs": [],
+    "events": [
+      "birthday"
+    ]
+  },
+  {
+    "id": "sugar-sugar",
+    "title": "Sugar, Sugar",
+    "artist": "The Archies",
+    "year": 1969,
+    "seconds": 170,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "birthday",
+      "kids"
+    ]
+  },
+  {
+    "id": "celebration",
+    "title": "Celebration",
+    "artist": "Kool & The Gang",
+    "year": 1980,
+    "seconds": 215,
+    "energy": 5,
+    "moods": [
+      "festive",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "birthday",
+      "celebration"
+    ]
+  },
+  {
+    "id": "happy",
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "year": 2013,
+    "seconds": 233,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "birthday",
+      "kids",
+      "celebration"
+    ]
+  },
+  {
+    "id": "dancing-queen",
+    "title": "Dancing Queen",
+    "artist": "ABBA",
+    "year": 1976,
+    "seconds": 232,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "birthday",
+      "celebration"
+    ]
+  },
+  {
+    "id": "build-me-up-buttercup",
+    "title": "Build Me Up Buttercup",
+    "artist": "The Foundations",
+    "year": 1968,
+    "seconds": 185,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "birthday",
+      "classics"
+    ]
+  },
+  {
+    "id": "cant-stop-the-feeling",
+    "title": "Can't Stop the Feeling!",
+    "artist": "Justin Timberlake",
+    "year": 2016,
+    "seconds": 238,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "birthday",
+      "kids",
+      "celebration"
+    ]
+  },
+  {
+    "id": "forever-young",
+    "title": "Forever Young",
+    "artist": "Rod Stewart",
+    "year": 1988,
+    "seconds": 246,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "birthday",
+      "celebration"
+    ]
+  },
+  {
+    "id": "dont-stop-believin",
+    "title": "Don't Stop Believin'",
+    "artist": "Journey",
+    "year": 1981,
+    "seconds": 251,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "celebration"
+    ]
+  },
+  {
+    "id": "shake-it-off",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "year": 2014,
+    "seconds": 219,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "celebration",
+      "kids"
+    ]
+  },
+  {
+    "id": "you-are-my-sunshine",
+    "title": "You Are My Sunshine",
+    "artist": "Jimmie Davis",
+    "year": 1940,
+    "seconds": 167,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "comfort",
+      "classics"
+    ]
+  },
+  {
+    "id": "twinkle-twinkle-little-star",
+    "title": "Twinkle, Twinkle, Little Star",
+    "artist": "Traditional",
+    "year": 1761,
+    "seconds": 75,
+    "energy": 1,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "comfort"
+    ]
+  },
+  {
+    "id": "itsy-bitsy-spider",
+    "title": "The Itsy Bitsy Spider",
+    "artist": "Traditional",
+    "year": 1910,
+    "seconds": 60,
+    "energy": 3,
+    "moods": [
+      "sing-along",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "kids"
+    ]
+  },
+  {
+    "id": "if-youre-happy-and-you-know-it",
+    "title": "If You're Happy and You Know It",
+    "artist": "Traditional",
+    "year": 1950,
+    "seconds": 90,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "kids"
+    ]
+  },
+  {
+    "id": "rainbow-connection",
+    "title": "Rainbow Connection",
+    "artist": "Kermit the Frog",
+    "year": 1979,
+    "seconds": 196,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "comfort"
+    ]
+  },
+  {
+    "id": "let-it-go",
+    "title": "Let It Go",
+    "artist": "Idina Menzel",
+    "year": 2013,
+    "seconds": 225,
+    "energy": 4,
+    "moods": [
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "kids"
+    ]
+  },
+  {
+    "id": "hakuna-matata",
+    "title": "Hakuna Matata",
+    "artist": "The Lion King Cast",
+    "year": 1994,
+    "seconds": 193,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "kids"
+    ]
+  },
+  {
+    "id": "under-the-sea",
+    "title": "Under the Sea",
+    "artist": "Samuel E. Wright",
+    "year": 1989,
+    "seconds": 195,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "festive"
+    ],
+    "needs": [],
+    "events": [
+      "kids"
+    ]
+  },
+  {
+    "id": "a-whole-new-world",
+    "title": "A Whole New World",
+    "artist": "Peabo Bryson & Regina Belle",
+    "year": 1992,
+    "seconds": 250,
+    "energy": 2,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "wedding"
+    ]
+  },
+  {
+    "id": "how-far-ill-go",
+    "title": "How Far I'll Go",
+    "artist": "Auli'i Cravalho",
+    "year": 2016,
+    "seconds": 163,
+    "energy": 3,
+    "moods": [
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "kids"
+    ]
+  },
+  {
+    "id": "youve-got-a-friend-in-me",
+    "title": "You've Got a Friend in Me",
+    "artist": "Randy Newman",
+    "year": 1995,
+    "seconds": 125,
+    "energy": 3,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "comfort"
+    ]
+  },
+  {
+    "id": "lion-sleeps-tonight",
+    "title": "The Lion Sleeps Tonight",
+    "artist": "The Tokens",
+    "year": 1961,
+    "seconds": 161,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "classics"
+    ]
+  },
+  {
+    "id": "do-re-mi",
+    "title": "Do-Re-Mi",
+    "artist": "Julie Andrews",
+    "year": 1959,
+    "seconds": 190,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "classics"
+    ]
+  },
+  {
+    "id": "my-favorite-things",
+    "title": "My Favorite Things",
+    "artist": "Julie Andrews",
+    "year": 1959,
+    "seconds": 141,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "classics",
+      "winter"
+    ]
+  },
+  {
+    "id": "singin-in-the-rain",
+    "title": "Singin' in the Rain",
+    "artist": "Gene Kelly",
+    "year": 1952,
+    "seconds": 178,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "kids",
+      "classics"
+    ]
+  },
+  {
+    "id": "over-the-rainbow",
+    "title": "Over the Rainbow",
+    "artist": "Judy Garland",
+    "year": 1939,
+    "seconds": 165,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "kids",
+      "classics"
+    ]
+  },
+  {
+    "id": "what-a-wonderful-world",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "year": 1967,
+    "seconds": 139,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "wedding",
+      "classics"
+    ]
+  },
+  {
+    "id": "three-little-birds",
+    "title": "Three Little Birds",
+    "artist": "Bob Marley & The Wailers",
+    "year": 1977,
+    "seconds": 181,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "kids"
+    ]
+  },
+  {
+    "id": "lean-on-me",
+    "title": "Lean on Me",
+    "artist": "Bill Withers",
+    "year": 1972,
+    "seconds": 258,
+    "energy": 3,
+    "moods": [
+      "sing-along",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "celebration"
+    ]
+  },
+  {
+    "id": "here-comes-the-sun",
+    "title": "Here Comes the Sun",
+    "artist": "The Beatles",
+    "year": 1969,
+    "seconds": 186,
+    "energy": 3,
+    "moods": [
+      "upbeat",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "comfort"
+    ]
+  },
+  {
+    "id": "dont-worry-be-happy",
+    "title": "Don't Worry, Be Happy",
+    "artist": "Bobby McFerrin",
+    "year": 1988,
+    "seconds": 292,
+    "energy": 3,
+    "moods": [
+      "upbeat",
+      "soothing",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "kids"
+    ]
+  },
+  {
+    "id": "smile",
+    "title": "Smile",
+    "artist": "Nat King Cole",
+    "year": 1954,
+    "seconds": 174,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "classics"
+    ]
+  },
+  {
+    "id": "let-it-be",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "year": 1970,
+    "seconds": 243,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "comfort"
+    ]
+  },
+  {
+    "id": "amazing-grace",
+    "title": "Amazing Grace",
+    "artist": "Traditional",
+    "year": 1779,
+    "seconds": 180,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "classics"
+    ]
+  },
+  {
+    "id": "edelweiss",
+    "title": "Edelweiss",
+    "artist": "Julie Andrews",
+    "year": 1959,
+    "seconds": 120,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "classics"
+    ]
+  },
+  {
+    "id": "moon-river",
+    "title": "Moon River",
+    "artist": "Andy Williams",
+    "year": 1961,
+    "seconds": 163,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "wedding",
+      "classics"
+    ]
+  },
+  {
+    "id": "dream-a-little-dream",
+    "title": "Dream a Little Dream of Me",
+    "artist": "The Mamas & The Papas",
+    "year": 1968,
+    "seconds": 194,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "classics"
+    ]
+  },
+  {
+    "id": "count-on-me",
+    "title": "Count on Me",
+    "artist": "Bruno Mars",
+    "year": 2010,
+    "seconds": 197,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "kids"
+    ]
+  },
+  {
+    "id": "wind-beneath-my-wings",
+    "title": "Wind Beneath My Wings",
+    "artist": "Bette Midler",
+    "year": 1988,
+    "seconds": 294,
+    "energy": 1,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "comfort",
+      "celebration"
+    ]
+  },
+  {
+    "id": "white-christmas",
+    "title": "White Christmas",
+    "artist": "Bing Crosby",
+    "year": 1942,
+    "seconds": 184,
+    "energy": 2,
+    "moods": [
+      "seasonal",
+      "nostalgic",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "classics"
+    ]
+  },
+  {
+    "id": "the-christmas-song",
+    "title": "The Christmas Song",
+    "artist": "Nat King Cole",
+    "year": 1946,
+    "seconds": 192,
+    "energy": 1,
+    "moods": [
+      "seasonal",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "classics"
+    ]
+  },
+  {
+    "id": "merry-little-christmas",
+    "title": "Have Yourself a Merry Little Christmas",
+    "artist": "Judy Garland",
+    "year": 1944,
+    "seconds": 168,
+    "energy": 1,
+    "moods": [
+      "seasonal",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "comfort"
+    ]
+  },
+  {
+    "id": "rudolph",
+    "title": "Rudolph the Red-Nosed Reindeer",
+    "artist": "Gene Autry",
+    "year": 1949,
+    "seconds": 190,
+    "energy": 4,
+    "moods": [
+      "seasonal",
+      "festive",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "kids"
+    ]
+  },
+  {
+    "id": "frosty-the-snowman",
+    "title": "Frosty the Snowman",
+    "artist": "Gene Autry",
+    "year": 1950,
+    "seconds": 174,
+    "energy": 4,
+    "moods": [
+      "seasonal",
+      "festive",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "kids"
+    ]
+  },
+  {
+    "id": "let-it-snow",
+    "title": "Let It Snow! Let It Snow! Let It Snow!",
+    "artist": "Vaughn Monroe",
+    "year": 1945,
+    "seconds": 193,
+    "energy": 2,
+    "moods": [
+      "seasonal",
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "classics"
+    ]
+  },
+  {
+    "id": "winter-wonderland",
+    "title": "Winter Wonderland",
+    "artist": "Dean Martin",
+    "year": 1959,
+    "seconds": 131,
+    "energy": 3,
+    "moods": [
+      "seasonal",
+      "festive"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "classics"
+    ]
+  },
+  {
+    "id": "rockin-around-the-christmas-tree",
+    "title": "Rockin' Around the Christmas Tree",
+    "artist": "Brenda Lee",
+    "year": 1958,
+    "seconds": 126,
+    "energy": 5,
+    "moods": [
+      "seasonal",
+      "festive",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "kids"
+    ]
+  },
+  {
+    "id": "jingle-bell-rock",
+    "title": "Jingle Bell Rock",
+    "artist": "Bobby Helms",
+    "year": 1957,
+    "seconds": 131,
+    "energy": 4,
+    "moods": [
+      "seasonal",
+      "festive",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "winter"
+    ]
+  },
+  {
+    "id": "santa-claus-is-comin",
+    "title": "Santa Claus Is Comin' to Town",
+    "artist": "The Jackson 5",
+    "year": 1970,
+    "seconds": 143,
+    "energy": 5,
+    "moods": [
+      "seasonal",
+      "festive",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "kids"
+    ]
+  },
+  {
+    "id": "all-i-want-for-christmas",
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "year": 1994,
+    "seconds": 242,
+    "energy": 5,
+    "moods": [
+      "seasonal",
+      "festive",
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "celebration"
+    ]
+  },
+  {
+    "id": "feliz-navidad",
+    "title": "Feliz Navidad",
+    "artist": "José Feliciano",
+    "year": 1970,
+    "seconds": 182,
+    "energy": 5,
+    "moods": [
+      "seasonal",
+      "festive",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "kids"
+    ]
+  },
+  {
+    "id": "beginning-to-look-like-christmas",
+    "title": "It's Beginning to Look a Lot Like Christmas",
+    "artist": "Michael Bublé",
+    "year": 2011,
+    "seconds": 207,
+    "energy": 3,
+    "moods": [
+      "seasonal",
+      "festive"
+    ],
+    "needs": [],
+    "events": [
+      "winter"
+    ]
+  },
+  {
+    "id": "dreidel",
+    "title": "I Have a Little Dreidel",
+    "artist": "Traditional",
+    "year": 1927,
+    "seconds": 90,
+    "energy": 4,
+    "moods": [
+      "seasonal",
+      "festive",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "winter",
+      "kids"
+    ]
+  },
+  {
+    "id": "monster-mash",
+    "title": "Monster Mash",
+    "artist": "Bobby \"Boris\" Pickett",
+    "year": 1962,
+    "seconds": 192,
+    "energy": 4,
+    "moods": [
+      "festive",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "holiday",
+      "kids"
+    ]
+  },
+  {
+    "id": "ghostbusters",
+    "title": "Ghostbusters",
+    "artist": "Ray Parker Jr.",
+    "year": 1984,
+    "seconds": 245,
+    "energy": 5,
+    "moods": [
+      "festive",
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "holiday",
+      "kids"
+    ]
+  },
+  {
+    "id": "peter-cottontail",
+    "title": "Here Comes Peter Cottontail",
+    "artist": "Gene Autry",
+    "year": 1950,
+    "seconds": 164,
+    "energy": 4,
+    "moods": [
+      "seasonal",
+      "festive",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "holiday",
+      "kids"
+    ]
+  },
+  {
+    "id": "easter-parade",
+    "title": "Easter Parade",
+    "artist": "Judy Garland & Fred Astaire",
+    "year": 1948,
+    "seconds": 155,
+    "energy": 3,
+    "moods": [
+      "seasonal",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "holiday",
+      "classics"
+    ]
+  },
+  {
+    "id": "over-the-river",
+    "title": "Over the River and Through the Woods",
+    "artist": "Traditional",
+    "year": 1844,
+    "seconds": 90,
+    "energy": 3,
+    "moods": [
+      "seasonal",
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "holiday",
+      "kids"
+    ]
+  },
+  {
+    "id": "thank-you-for-being-a-friend",
+    "title": "Thank You for Being a Friend",
+    "artist": "Andrew Gold",
+    "year": 1978,
+    "seconds": 281,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "sing-along",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "holiday",
+      "classics",
+      "comfort"
+    ]
+  },
+  {
+    "id": "america-the-beautiful",
+    "title": "America the Beautiful",
+    "artist": "Ray Charles",
+    "year": 1972,
+    "seconds": 216,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "patriotic",
+      "classics"
+    ]
+  },
+  {
+    "id": "god-bless-america",
+    "title": "God Bless America",
+    "artist": "Kate Smith",
+    "year": 1938,
+    "seconds": 135,
+    "energy": 2,
+    "moods": [
+      "nostalgic",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "patriotic",
+      "classics"
+    ]
+  },
+  {
+    "id": "this-land-is-your-land",
+    "title": "This Land Is Your Land",
+    "artist": "Woody Guthrie",
+    "year": 1944,
+    "seconds": 167,
+    "energy": 3,
+    "moods": [
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "patriotic",
+      "kids",
+      "classics"
+    ]
+  },
+  {
+    "id": "star-spangled-banner",
+    "title": "The Star-Spangled Banner",
+    "artist": "Traditional",
+    "year": 1814,
+    "seconds": 90,
+    "energy": 2,
+    "moods": [
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "patriotic"
+    ]
+  },
+  {
+    "id": "yankee-doodle",
+    "title": "Yankee Doodle",
+    "artist": "Traditional",
+    "year": 1776,
+    "seconds": 75,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "patriotic",
+      "kids"
+    ]
+  },
+  {
+    "id": "proud-to-be-an-american",
+    "title": "God Bless the U.S.A.",
+    "artist": "Lee Greenwood",
+    "year": 1984,
+    "seconds": 192,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "patriotic",
+      "classics"
+    ]
+  },
+  {
+    "id": "at-last",
+    "title": "At Last",
+    "artist": "Etta James",
+    "year": 1960,
+    "seconds": 181,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "classics"
+    ]
+  },
+  {
+    "id": "cant-help-falling-in-love",
+    "title": "Can't Help Falling in Love",
+    "artist": "Elvis Presley",
+    "year": 1961,
+    "seconds": 186,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "classics"
+    ]
+  },
+  {
+    "id": "unchained-melody",
+    "title": "Unchained Melody",
+    "artist": "The Righteous Brothers",
+    "year": 1965,
+    "seconds": 218,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "classics"
+    ]
+  },
+  {
+    "id": "perfect",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "year": 2017,
+    "seconds": 263,
+    "energy": 1,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "wedding"
+    ]
+  },
+  {
+    "id": "thinking-out-loud",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "year": 2014,
+    "seconds": 282,
+    "energy": 2,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "wedding"
+    ]
+  },
+  {
+    "id": "marry-you",
+    "title": "Marry You",
+    "artist": "Bruno Mars",
+    "year": 2010,
+    "seconds": 230,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "festive"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "celebration"
+    ]
+  },
+  {
+    "id": "wonderful-tonight",
+    "title": "Wonderful Tonight",
+    "artist": "Eric Clapton",
+    "year": 1977,
+    "seconds": 225,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "classics"
+    ]
+  },
+  {
+    "id": "the-way-you-look-tonight",
+    "title": "The Way You Look Tonight",
+    "artist": "Frank Sinatra",
+    "year": 1964,
+    "seconds": 202,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "classics"
+    ]
+  },
+  {
+    "id": "l-o-v-e",
+    "title": "L-O-V-E",
+    "artist": "Nat King Cole",
+    "year": 1965,
+    "seconds": 152,
+    "energy": 3,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "classics",
+      "birthday"
+    ]
+  },
+  {
+    "id": "stand-by-me",
+    "title": "Stand by Me",
+    "artist": "Ben E. King",
+    "year": 1961,
+    "seconds": 175,
+    "energy": 3,
+    "moods": [
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "classics",
+      "comfort"
+    ]
+  },
+  {
+    "id": "lovely-day",
+    "title": "Lovely Day",
+    "artist": "Bill Withers",
+    "year": 1977,
+    "seconds": 255,
+    "energy": 3,
+    "moods": [
+      "upbeat",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "wedding",
+      "celebration"
+    ]
+  },
+  {
+    "id": "just-the-way-you-are",
+    "title": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "year": 2010,
+    "seconds": 220,
+    "energy": 2,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "wedding"
+    ]
+  },
+  {
+    "id": "fly-me-to-the-moon",
+    "title": "Fly Me to the Moon",
+    "artist": "Frank Sinatra",
+    "year": 1964,
+    "seconds": 150,
+    "energy": 3,
+    "moods": [
+      "nostalgic",
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "wedding"
+    ]
+  },
+  {
+    "id": "thats-amore",
+    "title": "That's Amore",
+    "artist": "Dean Martin",
+    "year": 1953,
+    "seconds": 150,
+    "energy": 4,
+    "moods": [
+      "nostalgic",
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration"
+    ]
+  },
+  {
+    "id": "my-girl",
+    "title": "My Girl",
+    "artist": "The Temptations",
+    "year": 1964,
+    "seconds": 165,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "nostalgic",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "sweet-caroline",
+    "title": "Sweet Caroline",
+    "artist": "Neil Diamond",
+    "year": 1969,
+    "seconds": 203,
+    "energy": 5,
+    "moods": [
+      "sing-along",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration",
+      "birthday"
+    ]
+  },
+  {
+    "id": "take-me-home-country-roads",
+    "title": "Take Me Home, Country Roads",
+    "artist": "John Denver",
+    "year": 1971,
+    "seconds": 188,
+    "energy": 3,
+    "moods": [
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "comfort"
+    ]
+  },
+  {
+    "id": "rock-around-the-clock",
+    "title": "Rock Around the Clock",
+    "artist": "Bill Haley & His Comets",
+    "year": 1954,
+    "seconds": 133,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration"
+    ]
+  },
+  {
+    "id": "johnny-b-goode",
+    "title": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "year": 1958,
+    "seconds": 162,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "hound-dog",
+    "title": "Hound Dog",
+    "artist": "Elvis Presley",
+    "year": 1956,
+    "seconds": 136,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "twist-and-shout",
+    "title": "Twist and Shout",
+    "artist": "The Beatles",
+    "year": 1964,
+    "seconds": 153,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration"
+    ]
+  },
+  {
+    "id": "i-want-to-hold-your-hand",
+    "title": "I Want to Hold Your Hand",
+    "artist": "The Beatles",
+    "year": 1963,
+    "seconds": 145,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "yesterday",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "year": 1965,
+    "seconds": 123,
+    "energy": 1,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "comfort"
+    ]
+  },
+  {
+    "id": "blueberry-hill",
+    "title": "Blueberry Hill",
+    "artist": "Fats Domino",
+    "year": 1956,
+    "seconds": 146,
+    "energy": 3,
+    "moods": [
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "wonderful-world",
+    "title": "(What a) Wonderful World",
+    "artist": "Sam Cooke",
+    "year": 1960,
+    "seconds": 125,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics"
+    ]
+  },
+  {
+    "id": "hello-dolly",
+    "title": "Hello, Dolly!",
+    "artist": "Louis Armstrong",
+    "year": 1964,
+    "seconds": 144,
+    "energy": 4,
+    "moods": [
+      "upbeat",
+      "sing-along",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration",
+      "birthday"
+    ]
+  },
+  {
+    "id": "brown-eyed-girl",
+    "title": "Brown Eyed Girl",
+    "artist": "Van Morrison",
+    "year": 1967,
+    "seconds": 216,
+    "energy": 4,
+    "moods": [
+      "sing-along",
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "classics",
+      "celebration"
+    ]
+  },
+  {
+    "id": "best-day-of-my-life",
+    "title": "Best Day of My Life",
+    "artist": "American Authors",
+    "year": 2013,
+    "seconds": 196,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "celebration"
+    ]
+  },
+  {
+    "id": "good-time",
+    "title": "Good Time",
+    "artist": "Owl City & Carly Rae Jepsen",
+    "year": 2012,
+    "seconds": 205,
+    "energy": 5,
+    "moods": [
+      "upbeat",
+      "sing-along"
+    ],
+    "needs": [],
+    "events": [
+      "celebration"
+    ]
+  },
+  {
+    "id": "firework",
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "year": 2010,
+    "seconds": 227,
+    "energy": 4,
+    "moods": [
+      "upbeat"
+    ],
+    "needs": [],
+    "events": [
+      "celebration",
+      "kids"
+    ]
+  },
+  {
+    "id": "graduation-friends-forever",
+    "title": "Graduation (Friends Forever)",
+    "artist": "Vitamin C",
+    "year": 2000,
+    "seconds": 340,
+    "energy": 3,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "celebration"
+    ]
+  },
+  {
+    "id": "good-riddance",
+    "title": "Time of Your Life (Good Riddance)",
+    "artist": "Green Day",
+    "year": 1997,
+    "seconds": 153,
+    "energy": 2,
+    "moods": [
+      "soothing",
+      "nostalgic"
+    ],
+    "needs": [],
+    "events": [
+      "celebration"
+    ]
+  },
+  {
+    "id": "i-hope-you-dance",
+    "title": "I Hope You Dance",
+    "artist": "Lee Ann Womack",
+    "year": 2000,
+    "seconds": 294,
+    "energy": 2,
+    "moods": [
+      "soothing"
+    ],
+    "needs": [],
+    "events": [
+      "celebration",
+      "comfort"
+    ]
+  }
+]
